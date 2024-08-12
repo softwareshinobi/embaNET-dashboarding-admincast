@@ -23,6 +23,12 @@
 
     <li>
         <a href="map.html"><i class="sidebar-item-icon fa fa-th-large"></i>
+            <span class="nav-label">Kanban</span>
+        </a>
+    </li>
+    
+        <li>
+        <a href="map.html"><i class="sidebar-item-icon fa fa-th-large"></i>
             <span class="nav-label">Map</span>
         </a>
     </li>
